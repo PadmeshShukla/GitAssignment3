@@ -9,5 +9,5 @@ y3 = int(input("Enter the value of z component of vector2"))
 
 dotprod = x1 * y1 + x2 * y2 + x3 * y3
 print("dot product = " , dotprod)
-print("Adding line of code in main branch")
+print("Added a new line of code")
 
