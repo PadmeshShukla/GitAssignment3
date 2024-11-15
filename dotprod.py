@@ -11,3 +11,4 @@ dotprod = x1 * y1 + x2 * y2 + x3 * y3
 print("dot product = " , dotprod)
 print("Added a new line of code")
 print("hiiiiii")
+print("I also made a change")
